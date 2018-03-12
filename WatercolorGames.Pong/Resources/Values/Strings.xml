@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">ShiftOS Pong</string>
+  <string name="WelcomeToPong">Welcome to ShiftOS Pong.\n\nShiftOS was a game made by Philip Adams where the goal was to upgrade an experimental operating system using "Codepoints" to one usable as a daily driver.\n\nOne of the upgrades you could buy with Codepoints was a special version of the classic arcade game "Pong". This is that game.\n\nThe goal is simple - earn as many Codepoints as you can by beating the computer or surviving the level. Each level lasts one minute, and the higher the level, the more Codepoints you can earn - but the harder the game will get. Losing the ball will end your run!\n\nTap your screen to start playing.</string>
+</resources>
